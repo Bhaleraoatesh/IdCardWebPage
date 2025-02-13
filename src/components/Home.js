@@ -23,7 +23,7 @@ const Home = () => {
                 <div className="section-card">
                     <h2>🛒 Order</h2>
                     <p>Place an order quickly & easily.</p>
-                    <Link to="/order">Order Now →</Link>
+                    <Link to="/contact">Order Now →</Link>
                 </div>
 
                 <div className="section-card">
